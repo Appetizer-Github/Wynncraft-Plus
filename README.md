@@ -1,7 +1,6 @@
 # Wynncraft-Plus
 Modpack for 1.20.2 Optimized Wynncraft based on the Wynntils mod.
 
-# Contains:
 # - Wynntils
 # - QOL:
     - Zoomify
